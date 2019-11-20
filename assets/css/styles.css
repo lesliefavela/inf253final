@@ -1,9 +1,9 @@
-h1,h2,h3{
+h1,h2,h3,h4{
     font-family: 'Montserrat', sans-serif;
     color:#E03378;
     font-weight: bold;
 }
-h2,h3{color:#605856;}
+h2,h3,h4{color:#605856;}
 body{
 
 }
